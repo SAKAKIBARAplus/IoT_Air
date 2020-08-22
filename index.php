@@ -1,3 +1,1 @@
-<?php
-print "Hello World!";
-?>
+<?php include_once("index.html"); ?>
