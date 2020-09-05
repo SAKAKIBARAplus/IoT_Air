@@ -1,5 +1,5 @@
 <?php
-define('Debug', '../debug.txt');
+define('DEBUG', '../debug.txt');
 
 $input=file_get_contents('php://input');
 
